@@ -1,0 +1,5 @@
+Higher order functions are that which takes functions as arguements or returns function as result.
+
+What is order?
+
+1st order - functions that operate on basic data types (int,str,float ... etc)
