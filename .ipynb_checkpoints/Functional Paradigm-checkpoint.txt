@@ -1,0 +1,19 @@
+# Functional Paradigm
+
+- Computing problems consists of data and behavior
+    - states and operations
+    - objects and methods
+    - nouns and verbs
+- Immutability of data/state
+    - Once a variable is assigned to a value, it should not be repointed
+    - rather, a new one is to be created
+- Pure functions
+    - pure functions always produce the same output given some input
+    - pure functions have no side effects and do not depend on ore modify external state(like API calls, file writes etc).
+    - aka deterministic functions
+- First class funcitons
+    - functions are passed around and manipulated just like other objects
+- Prefer recursion over loops
+    - recursion is more declarative and avoids mutable state
+- Referential transparency
+    - a function invocation is equivalent to its return value.
