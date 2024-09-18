@@ -1,0 +1,7 @@
+Good and Bad Uses
+
+When to use a lambda?
+- Simple highly readable operations
+- Single-use funcationaliy; unlikely to be needed again
+- Temporary, throwaway functions
+- operations that don't need documentation
