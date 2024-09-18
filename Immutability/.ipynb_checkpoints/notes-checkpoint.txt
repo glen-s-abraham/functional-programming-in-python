@@ -1,0 +1,4 @@
+Immutability
+- Can't be changed after created
+- Very cooperative with pure functions
+- a central pillar in functional programming

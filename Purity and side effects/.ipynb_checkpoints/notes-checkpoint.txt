@@ -1,0 +1,3 @@
+Pure functions are that functions which has no side effects.
+Side effect is any operation that updates a state that is out of scope of it's current environment.
+A function would always return the same value for the same input provided.

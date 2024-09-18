@@ -1,0 +1,12 @@
+Lazy - delayed until needed
+Eager - Immediately evaluated
+
+
+Why prefer lazy?
+- Computationaly expensive operations
+- Large data size/ dimensionality
+- Only subset of results needed at any point
+- define operaiton w/o commiting to computation
+- deferred execution model
+- fine-grained control over timing of execution
+- an abstraction central to functionla programming.
